@@ -1,0 +1,4 @@
+<h1 style="color: #5e9ca0; text-align: center;">WELCOME TO CORONA TECHNOLOGIES</h1>
+<p>This our first page</p>
+<p>&nbsp;</p>
+<p><strong>&nbsp;</strong></p>
