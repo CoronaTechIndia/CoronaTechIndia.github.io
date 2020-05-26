@@ -32,7 +32,7 @@ const RESOURCES = {
 "assets/packages/fluttericon/lib/fonts/Zocial.ttf": "c29d6e34d8f703a745c6f18d94ce316d",
 "index.html": "d3008e3991366467d93b5a0b53ad2ada",
 "/": "d3008e3991366467d93b5a0b53ad2ada",
-"main.dart.js": "b94072e03df14064c56a179a90457d06"
+"main.dart.js": "721ece7c727adc2abe866d6589f5704d"
 };
 
 self.addEventListener('activate', function (event) {
