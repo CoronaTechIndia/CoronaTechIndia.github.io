@@ -1,16 +1,26 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "ca8cd823b4f19e51951ab7d023c1188b",
+  "assets/AssetManifest.json": "820dd310329b6bbfa5460e9ccf037683",
 "assets/assets/fonts/Montserrat-Bold.ttf": "d3085f686df272f9e1a267cc69b2d24f",
 "assets/assets/fonts/Montserrat-Regular.ttf": "07689d4eaaa3d530d58826b5d7f84735",
 "assets/assets/images/abuse1.png": "95697292be523ae2cb2c44e1fb94bb1c",
 "assets/assets/images/abuse2.png": "dec44934c5e737ec821db9a793e28583",
+"assets/assets/images/lp_image.png": "5aad4d4216174954f5228d7d268546e8",
 "assets/assets/images/ppp.png": "22498a204aa44e80811847af3338f2e2",
 "assets/assets/images/splash1.png": "c0982f48e2bd19ea8bfae3e8e958c002",
+"assets/assets/images/step1.jpeg": "ca2cf8da471fdd446dfb45e07546ce67",
+"assets/assets/images/step2.jpeg": "ef779c6584ae7a5821a0ccf9b01d989b",
+"assets/assets/images/step3.jpeg": "4dff32c7ceba60ecf6c4ae76022a71b3",
+"assets/assets/images/step4.jpeg": "929dd2bb150d98e3ed20f1a97746370e",
+"assets/assets/images/step5.jpeg": "13c67952c8022f8c859742f0208d1798",
+"assets/assets/images/step6.jpeg": "aa5c42a0e396b4364639c8f76933d68a",
+"assets/assets/images/usage2.jpg": "94d6df89ada1e00bdd37eb425137b479",
+"assets/assets/images/usage3.jpg": "2d239d523bc1fbbbfb11fc18268458a8",
+"assets/assets/images/usage4.jpg": "bb4ca9a40ffd3459210928a0df8f4d89",
 "assets/FontManifest.json": "7d00176be594fd22d0b1ebf00ae0c712",
 "assets/fonts/MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
-"assets/LICENSE": "3c7f45f46b63aa00bf5c47f820bea2cd",
+"assets/LICENSE": "11be1c9dae910f7ad0c762b085b33059",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "9a62a954b81a1ad45a58b9bcea89b50b",
 "assets/packages/fluttericon/lib/fonts/Brandico.ttf": "791921e9b25210e2551b6eda3f86c733",
 "assets/packages/fluttericon/lib/fonts/Elusive.ttf": "23f24df0388819e94db2b3c19841841c",
@@ -32,7 +42,7 @@ const RESOURCES = {
 "assets/packages/fluttericon/lib/fonts/Zocial.ttf": "c29d6e34d8f703a745c6f18d94ce316d",
 "index.html": "d3008e3991366467d93b5a0b53ad2ada",
 "/": "d3008e3991366467d93b5a0b53ad2ada",
-"main.dart.js": "721ece7c727adc2abe866d6589f5704d"
+"main.dart.js": "038d03d2c3924e1632f8ce42ba6ddaa7"
 };
 
 self.addEventListener('activate', function (event) {
