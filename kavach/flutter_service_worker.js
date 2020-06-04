@@ -1,13 +1,15 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "820dd310329b6bbfa5460e9ccf037683",
+  "assets/AssetManifest.json": "9adb107cdcdd6e53563ea2b3de27b427",
 "assets/assets/fonts/Montserrat-Bold.ttf": "d3085f686df272f9e1a267cc69b2d24f",
 "assets/assets/fonts/Montserrat-Regular.ttf": "07689d4eaaa3d530d58826b5d7f84735",
 "assets/assets/images/abuse1.png": "95697292be523ae2cb2c44e1fb94bb1c",
 "assets/assets/images/abuse2.png": "dec44934c5e737ec821db9a793e28583",
 "assets/assets/images/lp_image.png": "5aad4d4216174954f5228d7d268546e8",
 "assets/assets/images/ppp.png": "22498a204aa44e80811847af3338f2e2",
+"assets/assets/images/qr1.png": "9427e43db05d013b771419d2aaeb5ac4",
+"assets/assets/images/qr2.png": "588de8b05e619e3c4c032c89feb37ccd",
 "assets/assets/images/splash1.png": "c0982f48e2bd19ea8bfae3e8e958c002",
 "assets/assets/images/step1.jpeg": "ca2cf8da471fdd446dfb45e07546ce67",
 "assets/assets/images/step2.jpeg": "ef779c6584ae7a5821a0ccf9b01d989b",
@@ -42,7 +44,7 @@ const RESOURCES = {
 "assets/packages/fluttericon/lib/fonts/Zocial.ttf": "c29d6e34d8f703a745c6f18d94ce316d",
 "index.html": "d3008e3991366467d93b5a0b53ad2ada",
 "/": "d3008e3991366467d93b5a0b53ad2ada",
-"main.dart.js": "4684bcf66d951ae382bb834eb2174cba"
+"main.dart.js": "e7484c944c90e979d390eb35c15461ae"
 };
 
 self.addEventListener('activate', function (event) {
